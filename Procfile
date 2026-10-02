@@ -1,1 +1,1 @@
-web: sh -c 'streamlit run Calculodetensaoedeformacaocorreto.py --server.port=$PORT --server.address=0.0.0.0'
+web: sh -c 'streamlit run app.py --server.port=$PORT --server.address=0.0.0.0'
