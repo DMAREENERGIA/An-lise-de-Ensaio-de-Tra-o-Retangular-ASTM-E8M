@@ -1,1 +1,0 @@
-web: sh -c 'streamlit run nome_do_seu_ficheiro.py --server.port=$PORT --server.address=0.0.0.0'
